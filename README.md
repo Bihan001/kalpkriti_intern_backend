@@ -1,4 +1,8 @@
-# Tweencraft_Backend
+# Tweencraft_CRM_Backend
+
+Backend part of CRM tool of Kalpkriti Inc.
+
+Reupload of the previous backend code.
 
 ## Steps to get started
 
