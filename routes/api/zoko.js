@@ -19,7 +19,7 @@ const cron = require('node-cron');
 const async = require('async');
 const axios = require('axios');
 
-const apikey = '256e37ff-0e15-400b-9919-f553f44cff28';
+const apikey = config.ZOKO_API_KEY;
 
 const reqConfig = {
   headers: {
